@@ -6,29 +6,10 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
 }
 
-publishing {
-    publications {
-        HeaderListView(MavenPublication) {
-            artifact './build/outputs/aar/' + project.name + '-' + project.version + '.aar'
-
-            pom.withXml {
-                Node deps = asNode().appendNode('dependencies')
-                project.configurations.compile.dependencies.each() { obj ->
-                    if (obj.group?.trim()) {
-                        Node dep = new Node(deps, 'dependency')
-                        dep.appendNode('groupId', obj.group)
-                        dep.appendNode('artifactId', obj.name)
-                        dep.appendNode('version', obj.version)
-                        dep.appendNode('scope', 'compile')
-                    }
-                }
-            }
-        }
-    }
-}
 
 
-group 'com.applidium'
+
+group 'com.github.nileshpambhar'
 version '1.0'
 ext.androidVersionCode = 1
 
