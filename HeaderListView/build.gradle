@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-apply plugin: 'maven-publish'
+apply plugin: 'maven'
 
 dependencies {
     compile 'com.android.support:appcompat-v7:19+'
