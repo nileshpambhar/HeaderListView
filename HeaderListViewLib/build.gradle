@@ -27,6 +27,7 @@ publishing {
     }
 }
 
+
 group 'com.applidium'
 version '1.0'
 ext.androidVersionCode = 1
@@ -41,7 +42,15 @@ android {
         versionCode androidVersionCode
         versionName version
     }
-
+    libraryVariants.all { variant ->
+        variant.outputs.each { output ->
+            def outputFile = output.outputFile
+            if (outputFile != null && outputFile.name.endsWith('.aar')) {
+                def fileName = "${archivesBaseName}-${version}.aar"
+                output.outputFile = new File(outputFile.parent, fileName)
+            }
+        }
+    }
     buildTypes {
         release {
 
