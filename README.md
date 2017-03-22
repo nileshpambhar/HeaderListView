@@ -1,5 +1,5 @@
 
-[![](https://jitpack.io/v/nileshpambhar/HeaderListView.svg)](https://jitpack.io/#nileshpambhar/HeaderListView)
+[![](https://jitpack.io/v/nileshpambhar/HeaderListView.svg)](https://jitpack.io/#nileshpambhar/HeaderListView/1.0)
 
 # Add it in your root build.gradle at the end of repositories:
 
