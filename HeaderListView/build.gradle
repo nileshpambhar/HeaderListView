@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
-
+apply plugin: 'com.github.dcendents.android-maven'
 dependencies {
     compile 'com.android.support:appcompat-v7:19+'
     compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
