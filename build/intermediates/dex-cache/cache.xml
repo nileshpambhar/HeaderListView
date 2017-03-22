@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nilesh/Documents/HeaderListView/HeaderListViewDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="387c6bfb563ac22fb04b58e67dd8c06de7211736">
+        <dex dex="/home/nilesh/Documents/HeaderListView/HeaderListViewDemo/build/intermediates/pre-dexed/debug/instant-run-bootstrap_850fba95d429d42908b293df88d92f119fda9581.jar" />
+    </item>
+
+</items>

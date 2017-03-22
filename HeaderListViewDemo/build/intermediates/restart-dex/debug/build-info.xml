@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="9856824159171" >
+
+    <task
+        name="javac"
+        duration="235" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="59" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/home/nilesh/Documents/HeaderListView/HeaderListViewDemo/build/outputs/apk/HeaderListViewDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9856824159171" >
+        <artifact
+            location="/home/nilesh/Documents/HeaderListView/HeaderListViewDemo/build/outputs/apk/HeaderListViewDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

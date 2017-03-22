@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/scrollbar_handle_holo_dark.9.png",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/bundles/debug/res/drawable/scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/ic_launcher.png",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/bundles/debug/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/scrollbar_handle_holo_light.9.png",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/bundles/debug/res/drawable/scrollbar_handle_holo_light.9.png"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/res/merged/androidTest/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/home/nilesh/Documents/HeaderListView/HeaderListViewLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_search_dropdown_dark.xml"
+    }
+]
