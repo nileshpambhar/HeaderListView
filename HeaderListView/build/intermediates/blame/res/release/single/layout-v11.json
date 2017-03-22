@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView-master/HeaderListView/build/intermediates/res/merged/release/layout-v11/abc_simple_decor.xml",
+        "source": "/home/nilesh/Documents/HeaderListView-master/HeaderListView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/home/nilesh/Documents/HeaderListView-master/HeaderListView/build/intermediates/res/merged/release/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/nilesh/Documents/HeaderListView-master/HeaderListView/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

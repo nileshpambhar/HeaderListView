@@ -14,7 +14,7 @@ android {
 }
 
 dependencies {
-    compile project(':HeaderListViewLib')
+    compile project(':HeaderListView')
     compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
     compile 'com.android.support:appcompat-v7:19+'
 }

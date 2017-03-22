@@ -1,1 +1,1 @@
-include ':HeaderListViewLib', ':HeaderListViewDemo'
+include ':HeaderListView', ':HeaderListViewDemo'
