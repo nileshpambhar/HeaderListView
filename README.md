@@ -1,4 +1,3 @@
-# DEPRECATED
 
 HeaderListView is deprecated. No new development will be taking place.
 
