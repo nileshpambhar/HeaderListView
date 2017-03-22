@@ -1,6 +1,23 @@
 
 [![](https://jitpack.io/v/nileshpambhar/HeaderListView.svg)](https://jitpack.io/#nileshpambhar/HeaderListView)
 
+# Add it in your root build.gradle at the end of repositories:
+
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+# Add it in your root build.gradle at the end of repositories:
+
+	dependencies {
+	        compile 'com.github.nileshpambhar:HeaderListView:-SNAPSHOT'
+	}
+
+
 # Screenshot
 
 https://github.com/nileshpambhar/HeaderListView/blob/master/Screenshot1.png
