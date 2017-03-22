@@ -1,5 +1,6 @@
 
-HeaderListView is deprecated. No new development will be taking place.
+[![](https://jitpack.io/v/nileshpambhar/HeaderListView.svg)](https://jitpack.io/#nileshpambhar/HeaderListView)
+
 # Screenshot
 
 https://github.com/nileshpambhar/HeaderListView/blob/master/Screenshot1.png
